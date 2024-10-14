@@ -1,0 +1,16 @@
+{
+    "name": "Chimp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f934c4145abd96a46929437ce962e50d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
